@@ -39,3 +39,8 @@ package-lock.json
 .idea
 
 .nyc_output
+artifacts
+**/.*.swp
+allFireEvents
+crytic-export
+.coverage_artigacts
